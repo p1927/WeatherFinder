@@ -1,3 +1,8 @@
+WeatherFinder 
+•	A simple web application to get weather data for different location. 
+•	Uses Open Weather Map API for data based on location entered by user.
+•	Responsive design using media queries. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
